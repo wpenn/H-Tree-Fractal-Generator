@@ -12,6 +12,6 @@ The H Tree Fractal is an infinitely complex geometric object. Click [here](https
 
 ## Run
 ```
-cd /Path/To/File/Folder
+cd /Path/To/File
 python3 htree.py
 ```
